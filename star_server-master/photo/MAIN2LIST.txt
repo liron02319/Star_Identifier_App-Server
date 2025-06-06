@@ -1,0 +1,2427 @@
+C:\Users\User\Desktop\לירון\AutoRobots\FinalProjectAuto\.venv\Scripts\python.exe C:\Users\User\Desktop\Python\project_new_space-master\main2.py 
+{"status": "success", "message": "authenticated user: jonatan250199@gmail.com", "session": "h5zhgc1cbt7nqjbelq13i9o0937e1i69"}
+Login success, session: 1083ih78gvyy5plptbwxx7p9r3v4jsfs
+Upload success, submission ID: 12474988
+Checking submission status...
+Checking submission status...
+Checking submission status...
+Job ID: 13304634
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Waiting for job to finish...
+Job solved!
+
+Calibration data:
+{
+    "ra": 143.01613406811748,
+    "dec": 60.85329070374303,
+    "width_arcsec": 201862.8077035478,
+    "height_arcsec": 269150.4102713971,
+    "radius": 46.727501783228654,
+    "pixscale": 66.75357397604094,
+    "orientation": 157.20532340833188,
+    "parity": 1.0
+}
+
+Annotated objects (stars, etc.):
+
+Full annotations response:
+{
+    "annotations": [
+        {
+            "type": "bright",
+            "names": [
+                "\u03c81 Aur / 46 Aur",
+                "Dolones I"
+            ],
+            "pixelx": 38.48854867238879,
+            "pixely": 1217.1794831611614,
+            "radius": 0.0,
+            "vmag": 4.920000076293945
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c82 Aur / 50 Aur",
+                "Dolones III"
+            ],
+            "pixelx": 86.56891086077508,
+            "pixely": 753.1579769967577,
+            "radius": 0.0,
+            "vmag": 4.800000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c83 Aur / 52 Aur",
+                "Dolones II"
+            ],
+            "pixelx": 37.08481166399406,
+            "pixely": 572.3392380471821,
+            "radius": 0.0,
+            "vmag": 5.340000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c84 Aur / 55 Aur",
+                "Dolones IV"
+            ],
+            "pixelx": 163.46692501683583,
+            "pixely": 886.7296692355253,
+            "radius": 0.0,
+            "vmag": 5.039999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c85 Aur / 56 Aur",
+                "Dolones V"
+            ],
+            "pixelx": 193.86622048683785,
+            "pixely": 820.9425127839327,
+            "radius": 0.0,
+            "vmag": 5.239999771118164
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c86 Aur / 57 Aur",
+                "Dolones VI"
+            ],
+            "pixelx": 271.76256837535925,
+            "pixely": 1155.714300034891,
+            "radius": 0.0,
+            "vmag": 5.21999979019165
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c87 Aur / 58 Aur",
+                "Dolones VII"
+            ],
+            "pixelx": 219.83257200840535,
+            "pixely": 697.2117208822592,
+            "radius": 0.0,
+            "vmag": 4.989999771118164
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c88 Aur / 61 Aur",
+                "Dolones VIII"
+            ],
+            "pixelx": 220.46222557595797,
+            "pixely": 465.975137999186,
+            "radius": 0.0,
+            "vmag": 6.460000038146973
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c89 Aur",
+                "Dolones IX"
+            ],
+            "pixelx": 338.9389025939752,
+            "pixely": 991.0907272347114,
+            "radius": 0.0,
+            "vmag": 5.849999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "Tonatiuh"
+            ],
+            "pixelx": 1472.3553264901918,
+            "pixely": 3161.787868144511,
+            "radius": 0.0,
+            "vmag": 5.78000020980835
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c11 Cnc / 55 Cnc",
+                "Copernicus"
+            ],
+            "pixelx": 1865.753920667452,
+            "pixely": 20.971885044447163,
+            "radius": 0.0,
+            "vmag": 5.960000038146973
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b9 Cnc A / 48 Cnc A",
+                "Zubanah"
+            ],
+            "pixelx": 1777.5632920068756,
+            "pixely": 24.09597232642136,
+            "radius": 0.0,
+            "vmag": 4.03000020980835
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b1 Dra / 11 Dra",
+                "Thuban / Adib / Al Tinnin"
+            ],
+            "pixelx": 2338.862648917511,
+            "pixely": 3587.7196251991877,
+            "radius": 0.0,
+            "vmag": 3.6700000762939453
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03bb Dra / 1 Dra",
+                "Giausar / Giansar / Nodus Secundus"
+            ],
+            "pixelx": 1755.9225572109913,
+            "pixely": 2800.6366280507386,
+            "radius": 0.0,
+            "vmag": 3.819999933242798
+        },
+        {
+            "type": "bright",
+            "names": [
+                "8 Dra",
+                "Taiyi"
+            ],
+            "pixelx": 2172.8494432534344,
+            "pixely": 3126.064154277752,
+            "radius": 0.0,
+            "vmag": 5.230000019073486
+        },
+        {
+            "type": "bright",
+            "names": [
+                "7 Dra",
+                "Tianyi"
+            ],
+            "pixelx": 2081.108042108226,
+            "pixely": 3104.0165918865728,
+            "radius": 0.0,
+            "vmag": 5.429999828338623
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b1 Gem / 66 Gem / 66 Gem",
+                "Castor / Apollo"
+            ],
+            "pixelx": 747.2162219257051,
+            "pixely": 12.204864934982652,
+            "radius": 0.0,
+            "vmag": 1.5800000429153442
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03bf Gem / 71 Gem",
+                "Jishui"
+            ],
+            "pixelx": 808.6859679445324,
+            "pixely": 225.01198535709455,
+            "radius": 0.0,
+            "vmag": 4.889999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03bc Leo / 24 Leo",
+                "Rasalas / Alshemali / Ras Elased Borealis"
+            ],
+            "pixelx": 2725.8220192528765,
+            "pixely": 213.57794605074696,
+            "radius": 0.0,
+            "vmag": 3.880000114440918
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b5 Leo / 17 Leo",
+                "Algenubi / Ras Elased Australis / Ras Elased"
+            ],
+            "pixelx": 2726.034757196837,
+            "pixely": 3.2849927915767694,
+            "radius": 0.0,
+            "vmag": 2.9700000286102295
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03ba Leo / 1 Leo",
+                "Al Minlear al Asad / Minkarasad"
+            ],
+            "pixelx": 2351.91488852692,
+            "pixely": 40.991653278510285,
+            "radius": 0.0,
+            "vmag": 4.46999979019165
+        },
+        {
+            "type": "bright",
+            "names": [
+                "31 Lyn",
+                "Alsciaukat / Mabsuthat / Shaukah"
+            ],
+            "pixelx": 1265.8401365208877,
+            "pixely": 888.5774355297981,
+            "radius": 0.0,
+            "vmag": 4.25
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c810 Aur / 16 Lyn",
+                "Dolones X"
+            ],
+            "pixelx": 339.1402354250538,
+            "pixely": 914.857509197157,
+            "radius": 0.0,
+            "vmag": 4.900000095367432
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b1 UMa / 50 UMa",
+                "Dubhe / Dubb / Ak / Dubh"
+            ],
+            "pixelx": 1967.7759604372375,
+            "pixely": 2404.141086030285,
+            "radius": 0.0,
+            "vmag": 1.809999942779541
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b2 UMa / 48 UMa",
+                "Merak / Mirak"
+            ],
+            "pixelx": 2170.253367077931,
+            "pixely": 2187.91565804785,
+            "radius": 0.0,
+            "vmag": 2.3399999141693115
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b3 UMa / 64 UMa",
+                "Phecda / Phad"
+            ],
+            "pixelx": 2568.1486644276615,
+            "pixely": 2418.0393586081295,
+            "radius": 0.0,
+            "vmag": 2.4100000858306885
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b4 UMa / 69 UMa",
+                "Megrez / Kaffa"
+            ],
+            "pixelx": 2499.9898677096708,
+            "pixely": 2670.147810185482,
+            "radius": 0.0,
+            "vmag": 3.319999933242798
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b5 UMa / 77 UMa",
+                "Alioth"
+            ],
+            "pixelx": 2709.6085130013653,
+            "pixely": 2942.4543111713315,
+            "radius": 0.0,
+            "vmag": 1.7599999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b6 UMa / 79 UMa",
+                "Mizar"
+            ],
+            "pixelx": 2872.355959325514,
+            "pixely": 3190.612572278048,
+            "radius": 0.0,
+            "vmag": 2.2300000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b9 UMa / 9 UMa",
+                "Talitha / Talita / Dnoces"
+            ],
+            "pixelx": 1539.3519493016754,
+            "pixely": 1266.595468265956,
+            "radius": 0.0,
+            "vmag": 3.119999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03bb UMa / 33 UMa",
+                "Tania Borealis"
+            ],
+            "pixelx": 2354.5530532028733,
+            "pixely": 1347.2319012465427,
+            "radius": 0.0,
+            "vmag": 3.450000047683716
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03bc UMa / 34 UMa",
+                "Tania Australis"
+            ],
+            "pixelx": 2451.375867036716,
+            "pixely": 1308.8599581187348,
+            "radius": 0.0,
+            "vmag": 3.059999942779541
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03bf UMa / 1 UMa",
+                "Muscida"
+            ],
+            "pixelx": 1128.983731137856,
+            "pixely": 1876.1967816264857,
+            "radius": 0.0,
+            "vmag": 3.3499999046325684
+        },
+        {
+            "type": "bright",
+            "names": [
+                "80 UMa",
+                "Alcor"
+            ],
+            "pixelx": 2872.231216021134,
+            "pixely": 3203.553856291793,
+            "radius": 0.0,
+            "vmag": 3.990000009536743
+        },
+        {
+            "type": "bright",
+            "names": [
+                "Intercrus"
+            ],
+            "pixelx": 1850.7918913288136,
+            "pixely": 1243.328585218192,
+            "radius": 0.0,
+            "vmag": 5.400000095367432
+        },
+        {
+            "type": "bright",
+            "names": [
+                "47 UMa",
+                "Chalawan"
+            ],
+            "pixelx": 2820.0149496681893,
+            "pixely": 1509.7817047356261,
+            "radius": 0.0,
+            "vmag": 5.03000020980835
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c7 UMa / 63 UMa",
+                "Taiyangshou / Al Kaphrah / Alkafzah"
+            ],
+            "pixelx": 2818.142063839203,
+            "pixely": 2163.2386326326164,
+            "radius": 0.0,
+            "vmag": 3.690000057220459
+        },
+        {
+            "type": "bright",
+            "names": [
+                "d UMa / 24 UMa",
+                "Althiba VII"
+            ],
+            "pixelx": 1309.9876494369153,
+            "pixely": 2460.1585168847446,
+            "radius": 0.0,
+            "vmag": 4.539999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "e UMa / 18 UMa",
+                "Alhaud III"
+            ],
+            "pixelx": 1558.6354369420872,
+            "pixely": 1631.4731149584466,
+            "radius": 0.0,
+            "vmag": 4.800000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "f UMa / 15 UMa",
+                "Alhaud I"
+            ],
+            "pixelx": 1551.901727035237,
+            "pixely": 1485.1041251137715,
+            "radius": 0.0,
+            "vmag": 4.460000038146973
+        },
+        {
+            "type": "bright",
+            "names": [
+                "h UMa / 23 UMa",
+                "Alhaud IV"
+            ],
+            "pixelx": 1457.492698223667,
+            "pixely": 2122.1899803812225,
+            "radius": 0.0,
+            "vmag": 3.6500000953674316
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b8 UMa / 25 UMa",
+                "Alhaud V"
+            ],
+            "pixelx": 1736.4160621369388,
+            "pixely": 1570.0427649344733,
+            "radius": 0.0,
+            "vmag": 3.1700000762939453
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03ba UMa / 12 UMa",
+                "Alkaphrah / Kafzatania / Al Kaprah"
+            ],
+            "pixelx": 1595.0051049877195,
+            "pixely": 1232.9268114097536,
+            "radius": 0.0,
+            "vmag": 3.569999933242798
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c01 UMa / 3 UMa",
+                "Althiba II"
+            ],
+            "pixelx": 1129.5041354077957,
+            "pixely": 2116.3858195544753,
+            "radius": 0.0,
+            "vmag": 5.630000114440918
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c02 UMa / 4 UMa",
+                "Althiba III"
+            ],
+            "pixelx": 1144.6599417449245,
+            "pixely": 2081.3409925288465,
+            "radius": 0.0,
+            "vmag": 4.590000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c1 UMa / 8 UMa",
+                "Althiba IV"
+            ],
+            "pixelx": 1211.162216089851,
+            "pixely": 2288.4361733972028,
+            "radius": 0.0,
+            "vmag": 4.739999771118164
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c31 UMa / 11 UMa",
+                "Althiba V"
+            ],
+            "pixelx": 1254.3097163934665,
+            "pixely": 2260.011252009893,
+            "radius": 0.0,
+            "vmag": 5.150000095367432
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c32 UMa / 13 UMa",
+                "Althiba VI"
+            ],
+            "pixelx": 1259.1899621239936,
+            "pixely": 2277.0221084494015,
+            "radius": 0.0,
+            "vmag": 4.800000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c4 UMa / 14 UMa",
+                "Alhaud II"
+            ],
+            "pixelx": 1332.967443768353,
+            "pixely": 2094.9603056243086,
+            "radius": 0.0,
+            "vmag": 4.670000076293945
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c5 UMa / 29 UMa",
+                "Alhaud VI"
+            ],
+            "pixelx": 1671.1430907487231,
+            "pixely": 1989.5382766720747,
+            "radius": 0.0,
+            "vmag": 3.7799999713897705
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c6 UMa / 30 UMa",
+                "Alhaud VII"
+            ],
+            "pixelx": 1813.9585146509387,
+            "pixely": 1759.7504104275451,
+            "radius": 0.0,
+            "vmag": 4.550000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b1 UMi / 1 UMi",
+                "Polaris / Alrucaba / Cinosura / Tramontana / Yilduz / Mismar"
+            ],
+            "pixelx": 718.521144503947,
+            "pixely": 3555.071056157147,
+            "radius": 0.0,
+            "vmag": 1.9700000286102295
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b2 UMi / 7 UMi",
+                "Kochab"
+            ],
+            "pixelx": 1718.049504516057,
+            "pixely": 3797.7418594178243,
+            "radius": 0.0,
+            "vmag": 2.069999933242798
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b3 UMi / 13 UMi",
+                "Pherkad / Pherkad Major"
+            ],
+            "pixelx": 1829.7947303585483,
+            "pixely": 3999.8975332619657,
+            "radius": 0.0,
+            "vmag": 3.0
+        },
+        {
+            "type": "bright",
+            "names": [
+                "11 UMi",
+                "Pherkad Minor"
+            ],
+            "pixelx": 1835.3556256712145,
+            "pixely": 3979.8567985954624,
+            "radius": 0.0,
+            "vmag": 5.019999980926514
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b4 UMi / 23 UMi",
+                "Yildun / Vildiur"
+            ],
+            "pixelx": 879.0811797436113,
+            "pixely": 3752.90568217279,
+            "radius": 0.0,
+            "vmag": 4.349999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b5 UMi / 22 UMi",
+                "Circitores"
+            ],
+            "pixelx": 1119.9228968755965,
+            "pixely": 3935.632772052364,
+            "radius": 0.0,
+            "vmag": 4.210000038146973
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b6 UMi / 16 UMi",
+                "Akfa Farkadain"
+            ],
+            "pixelx": 1439.288554806476,
+            "pixely": 3936.3844415481067,
+            "radius": 0.0,
+            "vmag": 4.289999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "45 Aur"
+            ],
+            "pixelx": 86.42189922198622,
+            "pixely": 1477.3394852998908,
+            "radius": 0.0,
+            "vmag": 5.340000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "47 Aur"
+            ],
+            "pixelx": 47.10299635300066,
+            "pixely": 1043.3556255552671,
+            "radius": 0.0,
+            "vmag": 5.880000114440918
+        },
+        {
+            "type": "bright",
+            "names": [
+                "51 Aur"
+            ],
+            "pixelx": 26.14708432741145,
+            "pixely": 535.5578659124376,
+            "radius": 0.0,
+            "vmag": 5.699999809265137
+        },
+        {
+            "type": "bright",
+            "names": [
+                "59 Aur"
+            ],
+            "pixelx": 212.4984656562649,
+            "pixely": 492.2952809262315,
+            "radius": 0.0,
+            "vmag": 6.099999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "60 Aur"
+            ],
+            "pixelx": 209.79428565073295,
+            "pixely": 461.1473215211306,
+            "radius": 0.0,
+            "vmag": 6.320000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "62 Aur"
+            ],
+            "pixelx": 284.04126295417495,
+            "pixely": 433.66739976418216,
+            "radius": 0.0,
+            "vmag": 6.019999980926514
+        },
+        {
+            "type": "bright",
+            "names": [
+                "63 Aur"
+            ],
+            "pixelx": 460.4537029354391,
+            "pixely": 528.5627570589284,
+            "radius": 0.0,
+            "vmag": 4.909999847412109
+        },
+        {
+            "type": "bright",
+            "names": [
+                "64 Aur"
+            ],
+            "pixelx": 548.6961288270876,
+            "pixely": 639.3699412981312,
+            "radius": 0.0,
+            "vmag": 5.869999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "65 Aur"
+            ],
+            "pixelx": 582.533490484673,
+            "pixely": 356.1411129463829,
+            "radius": 0.0,
+            "vmag": 5.119999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "66 Aur"
+            ],
+            "pixelx": 621.896923504309,
+            "pixely": 629.7411266546844,
+            "radius": 0.0,
+            "vmag": 5.230000019073486
+        },
+        {
+            "type": "bright",
+            "names": [
+                "36 Cam"
+            ],
+            "pixelx": 256.8584855928459,
+            "pixely": 2193.6623287940256,
+            "radius": 0.0,
+            "vmag": 5.360000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "37 Cam"
+            ],
+            "pixelx": 95.15907094190675,
+            "pixely": 1821.6785479374903,
+            "radius": 0.0,
+            "vmag": 5.349999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "40 Cam"
+            ],
+            "pixelx": 161.82703218329948,
+            "pixely": 1869.4564720551061,
+            "radius": 0.0,
+            "vmag": 5.369999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "42 Cam"
+            ],
+            "pixelx": 509.7622476565431,
+            "pixely": 2238.772865597051,
+            "radius": 0.0,
+            "vmag": 5.139999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "43 Cam"
+            ],
+            "pixelx": 538.314196683521,
+            "pixely": 2309.540124153694,
+            "radius": 0.0,
+            "vmag": 5.110000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "47 Cam"
+            ],
+            "pixelx": 660.8305957776283,
+            "pixely": 1788.2371833301418,
+            "radius": 0.0,
+            "vmag": 6.360000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "49 Cam"
+            ],
+            "pixelx": 828.1958189231864,
+            "pixely": 1952.5287341377261,
+            "radius": 0.0,
+            "vmag": 6.5
+        },
+        {
+            "type": "bright",
+            "names": [
+                "51 Cam"
+            ],
+            "pixelx": 823.3126821159326,
+            "pixely": 2097.4031731254286,
+            "radius": 0.0,
+            "vmag": 5.929999828338623
+        },
+        {
+            "type": "bright",
+            "names": [
+                "53 Cam"
+            ],
+            "pixelx": 940.2488308692144,
+            "pixely": 1823.0641549715772,
+            "radius": 0.0,
+            "vmag": 6.019999980926514
+        },
+        {
+            "type": "bright",
+            "names": [
+                "54 Cam"
+            ],
+            "pixelx": 964.4229361918866,
+            "pixely": 1656.479091568885,
+            "radius": 0.0,
+            "vmag": 6.480000019073486
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b9 Cnc B / 48 Cnc B"
+            ],
+            "pixelx": 1777.043789815294,
+            "pixely": 24.331723483839596,
+            "radius": 0.0,
+            "vmag": 6.579999923706055
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c12 Cnc / 58 Cnc"
+            ],
+            "pixelx": 1916.2002153151952,
+            "pixely": 6.562378097667988,
+            "radius": 0.0,
+            "vmag": 5.230000019073486
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c31 Cnc / 51 Cnc"
+            ],
+            "pixelx": 1773.5852462892885,
+            "pixely": 312.86445043906224,
+            "radius": 0.0,
+            "vmag": 5.670000076293945
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c32 Cnc / 59 Cnc"
+            ],
+            "pixelx": 1817.2659215022552,
+            "pixely": 361.6238175427525,
+            "radius": 0.0,
+            "vmag": 5.440000057220459
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c33 Cnc / 64 Cnc"
+            ],
+            "pixelx": 1859.8405766768383,
+            "pixely": 340.7599225345409,
+            "radius": 0.0,
+            "vmag": 5.230000019073486
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c4 Cnc / 72 Cnc"
+            ],
+            "pixelx": 2032.904806936433,
+            "pixely": 194.01749077155364,
+            "radius": 0.0,
+            "vmag": 5.420000076293945
+        },
+        {
+            "type": "bright",
+            "names": [
+                "46 Cnc"
+            ],
+            "pixelx": 1719.7107855020545,
+            "pixely": 157.9988754729843,
+            "radius": 0.0,
+            "vmag": 6.119999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "53 Cnc"
+            ],
+            "pixelx": 1865.8137602400686,
+            "pixely": 15.092179623945185,
+            "radius": 0.0,
+            "vmag": 6.25
+        },
+        {
+            "type": "bright",
+            "names": [
+                "57 Cnc"
+            ],
+            "pixelx": 1835.8263671529553,
+            "pixely": 190.27810656358247,
+            "radius": 0.0,
+            "vmag": 5.400000095367432
+        },
+        {
+            "type": "bright",
+            "names": [
+                "61 Cnc"
+            ],
+            "pixelx": 1891.2151457179032,
+            "pixely": 183.9687919941871,
+            "radius": 0.0,
+            "vmag": 6.25
+        },
+        {
+            "type": "bright",
+            "names": [
+                "66 Cnc"
+            ],
+            "pixelx": 1886.2667364121917,
+            "pixely": 338.352856034928,
+            "radius": 0.0,
+            "vmag": 5.889999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "67 Cnc"
+            ],
+            "pixelx": 1998.639648852368,
+            "pixely": 36.560126852379426,
+            "radius": 0.0,
+            "vmag": 6.070000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "70 Cnc"
+            ],
+            "pixelx": 2029.812649674738,
+            "pixely": 48.697709108703975,
+            "radius": 0.0,
+            "vmag": 6.670000076293945
+        },
+        {
+            "type": "bright",
+            "names": [
+                "3 CVn"
+            ],
+            "pixelx": 2955.9728260861702,
+            "pixely": 2483.024066655714,
+            "radius": 0.0,
+            "vmag": 5.28000020980835
+        },
+        {
+            "type": "bright",
+            "names": [
+                "5 CVn"
+            ],
+            "pixelx": 2833.4092746652786,
+            "pixely": 2590.0847932559227,
+            "radius": 0.0,
+            "vmag": 4.760000228881836
+        },
+        {
+            "type": "bright",
+            "names": [
+                "7 CVn"
+            ],
+            "pixelx": 2864.597696613925,
+            "pixely": 2640.5736340198073,
+            "radius": 0.0,
+            "vmag": 6.210000038146973
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03ba Dra / 5 Dra"
+            ],
+            "pixelx": 1890.5993716055252,
+            "pixely": 3091.766953581906,
+            "radius": 0.0,
+            "vmag": 3.8499999046325684
+        },
+        {
+            "type": "bright",
+            "names": [
+                "i Dra / 10 Dra"
+            ],
+            "pixelx": 2305.554474256024,
+            "pixely": 3492.8137112558406,
+            "radius": 0.0,
+            "vmag": 4.579999923706055
+        },
+        {
+            "type": "bright",
+            "names": [
+                "2 Dra"
+            ],
+            "pixelx": 1770.122573010587,
+            "pixely": 2819.410645078855,
+            "radius": 0.0,
+            "vmag": 5.190000057220459
+        },
+        {
+            "type": "bright",
+            "names": [
+                "3 Dra"
+            ],
+            "pixelx": 1906.8339068875462,
+            "pixely": 2763.3248500992163,
+            "radius": 0.0,
+            "vmag": 5.320000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "4 Dra"
+            ],
+            "pixelx": 1914.4974815251048,
+            "pixely": 3061.9129093186184,
+            "radius": 0.0,
+            "vmag": 5.010000228881836
+        },
+        {
+            "type": "bright",
+            "names": [
+                "6 Dra"
+            ],
+            "pixelx": 1880.7236986794003,
+            "pixely": 3103.012268870342,
+            "radius": 0.0,
+            "vmag": 4.949999809265137
+        },
+        {
+            "type": "bright",
+            "names": [
+                "9 Dra"
+            ],
+            "pixelx": 2116.9959441388373,
+            "pixely": 3172.6984213549404,
+            "radius": 0.0,
+            "vmag": 5.369999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b8 Gem / 34 Gem"
+            ],
+            "pixelx": 144.7386953029811,
+            "pixely": 121.23026749533597,
+            "radius": 0.0,
+            "vmag": 3.5999999046325684
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c0 Gem / 80 Gem"
+            ],
+            "pixelx": 924.3018104255973,
+            "pixely": 157.20553583082688,
+            "radius": 0.0,
+            "vmag": 5.139999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "70 Gem"
+            ],
+            "pixelx": 799.8202974537796,
+            "pixely": 257.62271772306985,
+            "radius": 0.0,
+            "vmag": 5.579999923706055
+        },
+        {
+            "type": "bright",
+            "names": [
+                "f Leo / 15 Leo"
+            ],
+            "pixelx": 2461.002358514781,
+            "pixely": 419.23231096423433,
+            "radius": 0.0,
+            "vmag": 5.639999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "g Leo / 22 Leo"
+            ],
+            "pixelx": 2781.3573051588373,
+            "pixely": 92.37991774097509,
+            "radius": 0.0,
+            "vmag": 5.289999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "13 Leo"
+            ],
+            "pixelx": 2585.1484441437206,
+            "pixely": 130.6045357318094,
+            "radius": 0.0,
+            "vmag": 6.260000228881836
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b2 LMi / 31 LMi"
+            ],
+            "pixelx": 2688.6409212990966,
+            "pixely": 1101.9051000394593,
+            "radius": 0.0,
+            "vmag": 4.199999809265137
+        },
+        {
+            "type": "bright",
+            "names": [
+                "7 LMi"
+            ],
+            "pixelx": 2192.6219431735153,
+            "pixely": 577.2209944121073,
+            "radius": 0.0,
+            "vmag": 5.869999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "8 LMi"
+            ],
+            "pixelx": 2159.228077393662,
+            "pixely": 669.843823546458,
+            "radius": 0.0,
+            "vmag": 5.389999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "9 LMi"
+            ],
+            "pixelx": 2140.3654354199466,
+            "pixely": 762.2718479182463,
+            "radius": 0.0,
+            "vmag": 6.190000057220459
+        },
+        {
+            "type": "bright",
+            "names": [
+                "10 LMi"
+            ],
+            "pixelx": 2150.583943189555,
+            "pixely": 760.7768409350367,
+            "radius": 0.0,
+            "vmag": 4.539999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "11 LMi"
+            ],
+            "pixelx": 2183.190961187931,
+            "pixely": 733.836214025335,
+            "radius": 0.0,
+            "vmag": 5.400000095367432
+        },
+        {
+            "type": "bright",
+            "names": [
+                "13 LMi"
+            ],
+            "pixelx": 2281.1843674693328,
+            "pixely": 730.2705373383887,
+            "radius": 0.0,
+            "vmag": 6.119999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "19 LMi"
+            ],
+            "pixelx": 2242.352356401856,
+            "pixely": 1143.7988170525105,
+            "radius": 0.0,
+            "vmag": 5.110000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "20 LMi"
+            ],
+            "pixelx": 2593.0131479036872,
+            "pixely": 652.9216484455546,
+            "radius": 0.0,
+            "vmag": 5.369999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "21 LMi"
+            ],
+            "pixelx": 2538.324142509521,
+            "pixely": 887.3254142551646,
+            "radius": 0.0,
+            "vmag": 4.489999771118164
+        },
+        {
+            "type": "bright",
+            "names": [
+                "22 LMi"
+            ],
+            "pixelx": 2769.625286258831,
+            "pixely": 721.8011815765358,
+            "radius": 0.0,
+            "vmag": 6.46999979019165
+        },
+        {
+            "type": "bright",
+            "names": [
+                "23 LMi"
+            ],
+            "pixelx": 2874.805804035971,
+            "pixely": 599.6283471537106,
+            "radius": 0.0,
+            "vmag": 5.489999771118164
+        },
+        {
+            "type": "bright",
+            "names": [
+                "24 LMi"
+            ],
+            "pixelx": 2905.244610705888,
+            "pixely": 562.2622740172233,
+            "radius": 0.0,
+            "vmag": 6.460000038146973
+        },
+        {
+            "type": "bright",
+            "names": [
+                "27 LMi"
+            ],
+            "pixelx": 2755.0969493767425,
+            "pixely": 918.0230001465784,
+            "radius": 0.0,
+            "vmag": 5.889999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "28 LMi"
+            ],
+            "pixelx": 2773.969463751834,
+            "pixely": 914.842006090706,
+            "radius": 0.0,
+            "vmag": 5.519999980926514
+        },
+        {
+            "type": "bright",
+            "names": [
+                "30 LMi"
+            ],
+            "pixelx": 2789.3666934328157,
+            "pixely": 931.7569066287297,
+            "radius": 0.0,
+            "vmag": 4.71999979019165
+        },
+        {
+            "type": "bright",
+            "names": [
+                "32 LMi"
+            ],
+            "pixelx": 2620.7079471257885,
+            "pixely": 1230.5465901342518,
+            "radius": 0.0,
+            "vmag": 5.789999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "33 LMi"
+            ],
+            "pixelx": 2914.5135625121707,
+            "pixely": 896.5912603527436,
+            "radius": 0.0,
+            "vmag": 5.900000095367432
+        },
+        {
+            "type": "bright",
+            "names": [
+                "34 LMi"
+            ],
+            "pixelx": 2816.9724392988915,
+            "pixely": 1051.152575949053,
+            "radius": 0.0,
+            "vmag": 5.570000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "35 LMi"
+            ],
+            "pixelx": 2787.7724105925017,
+            "pixely": 1141.7229163379902,
+            "radius": 0.0,
+            "vmag": 6.289999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "36 LMi"
+            ],
+            "pixelx": 2901.6642807622725,
+            "pixely": 1034.8563140026272,
+            "radius": 0.0,
+            "vmag": 6.420000076293945
+        },
+        {
+            "type": "bright",
+            "names": [
+                "37 LMi"
+            ],
+            "pixelx": 3007.2602909348043,
+            "pixely": 926.7714479026927,
+            "radius": 0.0,
+            "vmag": 4.679999828338623
+        },
+        {
+            "type": "bright",
+            "names": [
+                "38 LMi"
+            ],
+            "pixelx": 2746.949625654388,
+            "pixely": 1241.790142888487,
+            "radius": 0.0,
+            "vmag": 5.840000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b1 Lyn / 40 Lyn"
+            ],
+            "pixelx": 2062.4271621386542,
+            "pixely": 572.1661252098127,
+            "radius": 0.0,
+            "vmag": 3.140000104904175
+        },
+        {
+            "type": "bright",
+            "names": [
+                "1 Lyn"
+            ],
+            "pixelx": 208.13535639996417,
+            "pixely": 1950.24778588172,
+            "radius": 0.0,
+            "vmag": 5.010000228881836
+        },
+        {
+            "type": "bright",
+            "names": [
+                "2 Lyn"
+            ],
+            "pixelx": 173.43805886164068,
+            "pixely": 1805.3098193656815,
+            "radius": 0.0,
+            "vmag": 4.440000057220459
+        },
+        {
+            "type": "bright",
+            "names": [
+                "4 Lyn"
+            ],
+            "pixelx": 199.3265398923843,
+            "pixely": 1821.1045693880906,
+            "radius": 0.0,
+            "vmag": 6.050000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "5 Lyn"
+            ],
+            "pixelx": 220.2158809785219,
+            "pixely": 1757.8438449534806,
+            "radius": 0.0,
+            "vmag": 5.210000038146973
+        },
+        {
+            "type": "bright",
+            "names": [
+                "6 Lyn"
+            ],
+            "pixelx": 248.05586724246223,
+            "pixely": 1736.4193952903488,
+            "radius": 0.0,
+            "vmag": 5.860000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "7 Lyn"
+            ],
+            "pixelx": 235.96360120350346,
+            "pixely": 1567.6064219893947,
+            "radius": 0.0,
+            "vmag": 6.449999809265137
+        },
+        {
+            "type": "bright",
+            "names": [
+                "8 Lyn"
+            ],
+            "pixelx": 350.42645532202005,
+            "pixely": 1914.329689213845,
+            "radius": 0.0,
+            "vmag": 5.940000057220459
+        },
+        {
+            "type": "bright",
+            "names": [
+                "11 Lyn"
+            ],
+            "pixelx": 284.8119751566935,
+            "pixely": 1650.5825588648183,
+            "radius": 0.0,
+            "vmag": 5.869999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "12 Lyn"
+            ],
+            "pixelx": 387.54245390128676,
+            "pixely": 1787.462654495766,
+            "radius": 0.0,
+            "vmag": 4.860000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "13 Lyn"
+            ],
+            "pixelx": 365.28282154202793,
+            "pixely": 1656.6164394446732,
+            "radius": 0.0,
+            "vmag": 5.340000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "14 Lyn"
+            ],
+            "pixelx": 439.9405146797227,
+            "pixely": 1780.288231239509,
+            "radius": 0.0,
+            "vmag": 5.340000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "15 Lyn"
+            ],
+            "pixelx": 462.46613461073696,
+            "pixely": 1717.8941269412273,
+            "radius": 0.0,
+            "vmag": 4.349999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "18 Lyn"
+            ],
+            "pixelx": 612.932066621455,
+            "pixely": 1775.2293854314103,
+            "radius": 0.0,
+            "vmag": 5.199999809265137
+        },
+        {
+            "type": "bright",
+            "names": [
+                "19 Lyn A"
+            ],
+            "pixelx": 651.4098854647872,
+            "pixely": 1525.9775971715712,
+            "radius": 0.0,
+            "vmag": 5.800000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "19 Lyn B"
+            ],
+            "pixelx": 651.2492112387581,
+            "pixely": 1526.1466500023305,
+            "radius": 0.0,
+            "vmag": 6.860000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "21 Lyn"
+            ],
+            "pixelx": 671.0684983787562,
+            "pixely": 1170.8956314907264,
+            "radius": 0.0,
+            "vmag": 4.610000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "22 Lyn"
+            ],
+            "pixelx": 703.1508863091582,
+            "pixely": 1199.7025195850078,
+            "radius": 0.0,
+            "vmag": 5.349999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "23 Lyn"
+            ],
+            "pixelx": 798.1919679717156,
+            "pixely": 1631.2867432969165,
+            "radius": 0.0,
+            "vmag": 6.090000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "24 Lyn"
+            ],
+            "pixelx": 812.4759832733974,
+            "pixely": 1723.1316394982157,
+            "radius": 0.0,
+            "vmag": 4.929999828338623
+        },
+        {
+            "type": "bright",
+            "names": [
+                "25 Lyn"
+            ],
+            "pixelx": 946.2474159774272,
+            "pixely": 1085.0616628165908,
+            "radius": 0.0,
+            "vmag": 6.25
+        },
+        {
+            "type": "bright",
+            "names": [
+                "26 Lyn"
+            ],
+            "pixelx": 947.6171599918771,
+            "pixely": 1095.9443757059544,
+            "radius": 0.0,
+            "vmag": 5.46999979019165
+        },
+        {
+            "type": "bright",
+            "names": [
+                "27 Lyn"
+            ],
+            "pixelx": 1050.7030936600363,
+            "pixely": 1342.5511914474482,
+            "radius": 0.0,
+            "vmag": 4.78000020980835
+        },
+        {
+            "type": "bright",
+            "names": [
+                "28 Lyn"
+            ],
+            "pixelx": 1101.336248993161,
+            "pixely": 857.706524503528,
+            "radius": 0.0,
+            "vmag": 6.349999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "29 Lyn"
+            ],
+            "pixelx": 1057.2066230955675,
+            "pixely": 1798.233190417314,
+            "radius": 0.0,
+            "vmag": 5.630000114440918
+        },
+        {
+            "type": "bright",
+            "names": [
+                "30 Lyn"
+            ],
+            "pixelx": 1092.7645535327292,
+            "pixely": 1702.9829279464927,
+            "radius": 0.0,
+            "vmag": 5.889999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "32 Lyn"
+            ],
+            "pixelx": 1471.4104283223433,
+            "pixely": 499.5007809568415,
+            "radius": 0.0,
+            "vmag": 6.199999809265137
+        },
+        {
+            "type": "bright",
+            "names": [
+                "33 Lyn"
+            ],
+            "pixelx": 1487.6625292586195,
+            "pixely": 503.14109242556515,
+            "radius": 0.0,
+            "vmag": 5.760000228881836
+        },
+        {
+            "type": "bright",
+            "names": [
+                "34 Lyn"
+            ],
+            "pixelx": 1410.6131297887946,
+            "pixely": 1090.6784980685434,
+            "radius": 0.0,
+            "vmag": 5.349999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "35 Lyn"
+            ],
+            "pixelx": 1550.0188821243821,
+            "pixely": 1004.082553172403,
+            "radius": 0.0,
+            "vmag": 5.150000095367432
+        },
+        {
+            "type": "bright",
+            "names": [
+                "36 Lyn"
+            ],
+            "pixelx": 1770.64238507687,
+            "pixely": 1054.5690547016811,
+            "radius": 0.0,
+            "vmag": 5.300000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "38 Lyn"
+            ],
+            "pixelx": 1974.6764484972794,
+            "pixely": 708.1235259100556,
+            "radius": 0.0,
+            "vmag": 3.819999933242798
+        },
+        {
+            "type": "bright",
+            "names": [
+                "42 Lyn"
+            ],
+            "pixelx": 2082.6510757226833,
+            "pixely": 999.6647387333018,
+            "radius": 0.0,
+            "vmag": 5.28000020980835
+        },
+        {
+            "type": "bright",
+            "names": [
+                "43 Lyn"
+            ],
+            "pixelx": 2132.1768499622685,
+            "pixely": 991.5206519164066,
+            "radius": 0.0,
+            "vmag": 5.610000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c8 UMa / 52 UMa"
+            ],
+            "pixelx": 2719.492609167586,
+            "pixely": 1761.8521151099642,
+            "radius": 0.0,
+            "vmag": 3.0
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03c9 UMa / 45 UMa"
+            ],
+            "pixelx": 2653.3225576076957,
+            "pixely": 1594.513414778342,
+            "radius": 0.0,
+            "vmag": 4.659999847412109
+        },
+        {
+            "type": "bright",
+            "names": [
+                "b UMa / 5 UMa"
+            ],
+            "pixelx": 1257.903295597897,
+            "pixely": 1980.1279952321938,
+            "radius": 0.0,
+            "vmag": 5.71999979019165
+        },
+        {
+            "type": "bright",
+            "names": [
+                "c UMa / 16 UMa"
+            ],
+            "pixelx": 1394.4724959574987,
+            "pixely": 1997.9080197874084,
+            "radius": 0.0,
+            "vmag": 5.179999828338623
+        },
+        {
+            "type": "bright",
+            "names": [
+                "2 UMa"
+            ],
+            "pixelx": 1102.0745304481675,
+            "pixely": 2116.8236660375405,
+            "radius": 0.0,
+            "vmag": 5.46999979019165
+        },
+        {
+            "type": "bright",
+            "names": [
+                "6 UMa"
+            ],
+            "pixelx": 1233.1597587033143,
+            "pixely": 2122.2766796429587,
+            "radius": 0.0,
+            "vmag": 5.570000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "10 UMa"
+            ],
+            "pixelx": 1672.4588269836258,
+            "pixely": 923.1837554825956,
+            "radius": 0.0,
+            "vmag": 3.9600000381469727
+        },
+        {
+            "type": "bright",
+            "names": [
+                "17 UMa"
+            ],
+            "pixelx": 1499.5818083058507,
+            "pixely": 1767.484704298116,
+            "radius": 0.0,
+            "vmag": 5.28000020980835
+        },
+        {
+            "type": "bright",
+            "names": [
+                "19 UMa"
+            ],
+            "pixelx": 1990.209675905102,
+            "pixely": 558.3120867203936,
+            "radius": 0.0,
+            "vmag": 5.980000019073486
+        },
+        {
+            "type": "bright",
+            "names": [
+                "20 UMa"
+            ],
+            "pixelx": 1466.2342794402714,
+            "pixely": 1931.8098634115452,
+            "radius": 0.0,
+            "vmag": 7.550000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "21 UMa"
+            ],
+            "pixelx": 1627.7702471551006,
+            "pixely": 1661.2220756886065,
+            "radius": 0.0,
+            "vmag": 7.360000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "22 UMa"
+            ],
+            "pixelx": 1252.931180441332,
+            "pixely": 2579.1298824964288,
+            "radius": 0.0,
+            "vmag": 5.769999980926514
+        },
+        {
+            "type": "bright",
+            "names": [
+                "26 UMa"
+            ],
+            "pixelx": 1742.092328014366,
+            "pixely": 1595.90321896351,
+            "radius": 0.0,
+            "vmag": 4.46999979019165
+        },
+        {
+            "type": "bright",
+            "names": [
+                "27 UMa"
+            ],
+            "pixelx": 1281.7880969607693,
+            "pixely": 2597.046965073847,
+            "radius": 0.0,
+            "vmag": 5.150000095367432
+        },
+        {
+            "type": "bright",
+            "names": [
+                "28 UMa"
+            ],
+            "pixelx": 1520.234524587299,
+            "pixely": 2190.411106578481,
+            "radius": 0.0,
+            "vmag": 6.510000228881836
+        },
+        {
+            "type": "bright",
+            "names": [
+                "31 UMa"
+            ],
+            "pixelx": 1960.0670019738636,
+            "pixely": 1572.4207287636282,
+            "radius": 0.0,
+            "vmag": 5.269999980926514
+        },
+        {
+            "type": "bright",
+            "names": [
+                "32 UMa"
+            ],
+            "pixelx": 1636.6168308123597,
+            "pixely": 2357.7908476766333,
+            "radius": 0.0,
+            "vmag": 5.739999771118164
+        },
+        {
+            "type": "bright",
+            "names": [
+                "35 UMa"
+            ],
+            "pixelx": 1673.1626992807821,
+            "pixely": 2421.3693490572587,
+            "radius": 0.0,
+            "vmag": 6.320000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "36 UMa"
+            ],
+            "pixelx": 2004.2298616117819,
+            "pixely": 2013.5110930086257,
+            "radius": 0.0,
+            "vmag": 4.820000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "37 UMa"
+            ],
+            "pixelx": 1992.9702514919609,
+            "pixely": 2081.7116915851,
+            "radius": 0.0,
+            "vmag": 5.159999847412109
+        },
+        {
+            "type": "bright",
+            "names": [
+                "38 UMa"
+            ],
+            "pixelx": 1721.971696643529,
+            "pixely": 2469.104119131901,
+            "radius": 0.0,
+            "vmag": 5.119999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "39 UMa"
+            ],
+            "pixelx": 2037.8233458073928,
+            "pixely": 2127.48661762786,
+            "radius": 0.0,
+            "vmag": 5.789999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "40 UMa"
+            ],
+            "pixelx": 2060.899966774937,
+            "pixely": 2127.255003253719,
+            "radius": 0.0,
+            "vmag": 7.110000133514404
+        },
+        {
+            "type": "bright",
+            "names": [
+                "41 UMa"
+            ],
+            "pixelx": 2046.630705683802,
+            "pixely": 2147.3005975297688,
+            "radius": 0.0,
+            "vmag": 6.340000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "42 UMa"
+            ],
+            "pixelx": 2001.0267170854127,
+            "pixely": 2250.549691615598,
+            "radius": 0.0,
+            "vmag": 5.570000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "43 UMa"
+            ],
+            "pixelx": 2102.893336460901,
+            "pixely": 2139.6676401432487,
+            "radius": 0.0,
+            "vmag": 5.659999847412109
+        },
+        {
+            "type": "bright",
+            "names": [
+                "44 UMa"
+            ],
+            "pixelx": 2192.910541484527,
+            "pixely": 2071.7758178493136,
+            "radius": 0.0,
+            "vmag": 5.119999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "49 UMa"
+            ],
+            "pixelx": 2887.744956520274,
+            "pixely": 1464.3681355596918,
+            "radius": 0.0,
+            "vmag": 5.059999942779541
+        },
+        {
+            "type": "bright",
+            "names": [
+                "51 UMa"
+            ],
+            "pixelx": 2966.3671344210525,
+            "pixely": 1448.1317410874788,
+            "radius": 0.0,
+            "vmag": 6.010000228881836
+        },
+        {
+            "type": "bright",
+            "names": [
+                "56 UMa"
+            ],
+            "pixelx": 2867.251595537772,
+            "pixely": 1819.0639609951843,
+            "radius": 0.0,
+            "vmag": 4.989999771118164
+        },
+        {
+            "type": "bright",
+            "names": [
+                "58 UMa"
+            ],
+            "pixelx": 2941.065498330843,
+            "pixely": 1867.9367182266483,
+            "radius": 0.0,
+            "vmag": 5.940000057220459
+        },
+        {
+            "type": "bright",
+            "names": [
+                "59 UMa"
+            ],
+            "pixelx": 2976.7008795705506,
+            "pixely": 1949.7008587860166,
+            "radius": 0.0,
+            "vmag": 5.559999942779541
+        },
+        {
+            "type": "bright",
+            "names": [
+                "60 UMa"
+            ],
+            "pixelx": 2816.2956282678415,
+            "pixely": 2070.6895173608923,
+            "radius": 0.0,
+            "vmag": 6.090000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "65 UMa"
+            ],
+            "pixelx": 2944.0445557495877,
+            "pixely": 2192.3032810091972,
+            "radius": 0.0,
+            "vmag": 6.539999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "66 UMa"
+            ],
+            "pixelx": 2436.1570299951,
+            "pixely": 2523.294621064352,
+            "radius": 0.0,
+            "vmag": 5.829999923706055
+        },
+        {
+            "type": "bright",
+            "names": [
+                "68 UMa"
+            ],
+            "pixelx": 2483.337764443041,
+            "pixely": 2644.7893018187183,
+            "radius": 0.0,
+            "vmag": 6.340000152587891
+        },
+        {
+            "type": "bright",
+            "names": [
+                "70 UMa"
+            ],
+            "pixelx": 2478.5913938079393,
+            "pixely": 2730.5886109173625,
+            "radius": 0.0,
+            "vmag": 5.539999961853027
+        },
+        {
+            "type": "bright",
+            "names": [
+                "71 UMa"
+            ],
+            "pixelx": 2553.081420376233,
+            "pixely": 2733.2763352009692,
+            "radius": 0.0,
+            "vmag": 5.820000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "72 UMa"
+            ],
+            "pixelx": 2646.7815478295815,
+            "pixely": 2703.7341370538566,
+            "radius": 0.0,
+            "vmag": 7.03000020980835
+        },
+        {
+            "type": "bright",
+            "names": [
+                "73 UMa"
+            ],
+            "pixelx": 2621.042779112507,
+            "pixely": 2725.6470341219847,
+            "radius": 0.0,
+            "vmag": 5.679999828338623
+        },
+        {
+            "type": "bright",
+            "names": [
+                "74 UMa"
+            ],
+            "pixelx": 2484.511669566068,
+            "pixely": 2809.016478888915,
+            "radius": 0.0,
+            "vmag": 5.369999885559082
+        },
+        {
+            "type": "bright",
+            "names": [
+                "75 UMa"
+            ],
+            "pixelx": 2465.4442757434026,
+            "pixely": 2818.4939703838268,
+            "radius": 0.0,
+            "vmag": 6.070000171661377
+        },
+        {
+            "type": "bright",
+            "names": [
+                "76 UMa"
+            ],
+            "pixelx": 2288.763532363577,
+            "pixely": 2985.2646805624227,
+            "radius": 0.0,
+            "vmag": 6.019999980926514
+        },
+        {
+            "type": "bright",
+            "names": [
+                "78 UMa"
+            ],
+            "pixelx": 2708.7301334286385,
+            "pixely": 3005.856999444465,
+            "radius": 0.0,
+            "vmag": 4.929999828338623
+        },
+        {
+            "type": "bright",
+            "names": [
+                "81 UMa"
+            ],
+            "pixelx": 2874.0193084572397,
+            "pixely": 3291.550292992847,
+            "radius": 0.0,
+            "vmag": 5.599999904632568
+        },
+        {
+            "type": "bright",
+            "names": [
+                "83 UMa"
+            ],
+            "pixelx": 2936.0898127638966,
+            "pixely": 3350.6580929981437,
+            "radius": 0.0,
+            "vmag": 4.630000114440918
+        },
+        {
+            "type": "bright",
+            "names": [
+                "84 UMa"
+            ],
+            "pixelx": 2968.079026651414,
+            "pixely": 3408.000224486015,
+            "radius": 0.0,
+            "vmag": 5.679999828338623
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03b8 UMi / 15 UMi"
+            ],
+            "pixelx": 1482.5505088685402,
+            "pixely": 3903.4474436828223,
+            "radius": 0.0,
+            "vmag": 5.0
+        },
+        {
+            "type": "bright",
+            "names": [
+                "\u03bb UMi"
+            ],
+            "pixelx": 799.5319226618267,
+            "pixely": 3612.404574454679,
+            "radius": 0.0,
+            "vmag": 6.309999942779541
+        },
+        {
+            "type": "bright",
+            "names": [
+                "2 UMi"
+            ],
+            "pixelx": 522.0631134547052,
+            "pixely": 3620.2397431678028,
+            "radius": 0.0,
+            "vmag": 4.239999771118164
+        },
+        {
+            "type": "bright",
+            "names": [
+                "3 UMi"
+            ],
+            "pixelx": 1706.6474733443276,
+            "pixely": 3590.750456969865,
+            "radius": 0.0,
+            "vmag": 6.429999828338623
+        },
+        {
+            "type": "bright",
+            "names": [
+                "4 UMi"
+            ],
+            "pixelx": 1527.575761688739,
+            "pixely": 3592.68500848474,
+            "radius": 0.0,
+            "vmag": 4.800000190734863
+        },
+        {
+            "type": "bright",
+            "names": [
+                "5 UMi"
+            ],
+            "pixelx": 1636.1112742307396,
+            "pixely": 3675.636187949249,
+            "radius": 0.0,
+            "vmag": 4.25
+        },
+        {
+            "type": "bright",
+            "names": [
+                "6 UMi"
+            ],
+            "pixelx": 1857.057201278286,
+            "pixely": 3804.2232597193706,
+            "radius": 0.0,
+            "vmag": 7.519999980926514
+        },
+        {
+            "type": "bright",
+            "names": [
+                "8 UMi"
+            ],
+            "pixelx": 1667.4628773206825,
+            "pixely": 3814.302625248841,
+            "radius": 0.0,
+            "vmag": 6.829999923706055
+        },
+        {
+            "type": "bright",
+            "names": [
+                "9 UMi"
+            ],
+            "pixelx": 1857.9241231694862,
+            "pixely": 3888.0835752486946,
+            "radius": 0.0,
+            "vmag": 6.639999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "10 UMi"
+            ],
+            "pixelx": 1721.5500289900222,
+            "pixely": 3871.9932934167587,
+            "radius": 0.0,
+            "vmag": 7.559999942779541
+        },
+        {
+            "type": "bright",
+            "names": [
+                "12 UMi"
+            ],
+            "pixelx": 1873.3451527809284,
+            "pixely": 3995.6934165405505,
+            "radius": 0.0,
+            "vmag": 7.269999980926514
+        },
+        {
+            "type": "bright",
+            "names": [
+                "14 UMi"
+            ],
+            "pixelx": 1727.5652030781544,
+            "pixely": 3962.532214387078,
+            "radius": 0.0,
+            "vmag": 7.380000114440918
+        },
+        {
+            "type": "bright",
+            "names": [
+                "18 UMi"
+            ],
+            "pixelx": 1320.2721892692305,
+            "pixely": 3854.936593161271,
+            "radius": 0.0,
+            "vmag": 6.889999866485596
+        },
+        {
+            "type": "bright",
+            "names": [
+                "24 UMi"
+            ],
+            "pixelx": 867.0326847681278,
+            "pixely": 3730.404358975661,
+            "radius": 0.0,
+            "vmag": 5.78000020980835
+        }
+    ]
+}
+
+Fffffffe:
+
+Annotated objects (stars, etc.):
+Non-dict entry: annotations
+
+Process finished with exit code 0
